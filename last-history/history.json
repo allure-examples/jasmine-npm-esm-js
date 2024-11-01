@@ -1,0 +1,1 @@
+{"fac7f86428c63d17357b5ee2e0f565f6:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"7cd094cb1e35452","reportUrl":"https://allure-examples.github.io/jasmine-npm-esm-js/1//#testresult/7cd094cb1e35452","status":"passed","time":{"start":1730452456181,"stop":1730452456185,"duration":4}}]}}
